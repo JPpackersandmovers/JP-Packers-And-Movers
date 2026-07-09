@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jppackersandmovers.github.io/JPpackersandmovers/sitemap.xml
